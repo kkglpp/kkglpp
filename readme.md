@@ -8,5 +8,5 @@ Now this is time to make my github pretty well. (2023-11-28)
 <img src="https://img.shields.io/badge/java-02569B?style=for-the-badge&logo=java&logoColor=skyblue">
 <img src="https://img.shields.io/badge/spring-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue">
 <img src="https://img.shields.io/badge/springboot-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue">
-<img src="https://img.shields.io/badge/python-#FFD43B?style=for-the-badge&logo=Flutter&logoColor=#306998">
+<img src="https://img.shields.io/badge/python-#FFD43B?style=for-the-badge&logo=Flutter&logoColor=skyblue">
 
