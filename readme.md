@@ -28,7 +28,7 @@ Full Stack Developer
 
 ### AI (data Analysis & ML model)
 <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow"> 🌕🌕🌕🌘🌑   
-<img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue">  🌕🌘🌑🌑🌑   
+<img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue">  🌕🌕🌑🌑🌑   
 
 ### Back-end
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> 🌕🌕🌑🌑🌑   
