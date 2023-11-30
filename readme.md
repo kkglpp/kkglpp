@@ -9,6 +9,21 @@ Now this is time to make my github pretty well. (2023-11-28)
 ## Data Analysis Language
 <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue"> 
 
+---
+## Proficiency (self evaluate)
+
+### App
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> 🌕🌕🌖🌑🌑   
+<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=skyblue">     🌕🌕🌑🌑🌑    
+
+### AI (data Analysis & ML model)
+<img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow">    🌕🌕🌕🌘🌑   
+<img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue">           🌕🌕🌑🌑🌑   
+
+### Back-end
+<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=Java&logoColor=red">     🌕🌕🌑🌑🌑   
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">     🌕🌕🌑🌑🌑   
+<img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black">     🌕🌘🌑🌑🌑   
 
 ---
 # Want to be
@@ -26,7 +41,11 @@ Now this is time to make my github pretty well. (2023-11-28)
 하지만  일정 수준의 이해와 사용 능력을 갖추면 제가 서비스로 구현할 수 있는 역량 역시 늘어나고     
 더 좋은 서비스, 더 오래 사랑 받는 서비스를 "기획"하고 "만들"고 "유지" 할 수 있을 것이라 생각합니다.    
 
+---
 # 수행한 Project
+### Projects Slide Link (google Slide): 
+https://drive.google.com/drive/folders/14_jUPghzhinqWDvjf-gBVj-6ZdTm5Y3L?usp=drive_link
+
 ## APP project ( 4 Projects)    
 | 제가 수행한 모든 app 에서는 JSP만으로도 구현이 가능하더라도, 최대한 SpringBoot 프레임 워크를 사용하였습니다.    
 | AI 모델을 이용하여 "더 재미있고 유익하거나" 를 만들거나 "더 편리한" APP 서비스를 구현하였습니다.    
@@ -36,37 +55,23 @@ Now this is time to make my github pretty well. (2023-11-28)
    - R 을 이용한 AI 모델로 당뇨/심혈관질환 자가진단.
    - Spring Boot 를 이용하여 MySQL 사용
    - AI 모델을 사용하기위해 R Serve 사용.
+      
 ### 2. Travel Maker : Swift (UIkit)을 이용한 IOS App project
    - 제주도 여행지를 추천해 주는 서비스
    - Python을 이용한 AI 모델로 사용자에게 원하는 여행을 "문장"으로 입력 받아여행지 추천.
+     
 ### 3. 싯가 어때 : Swift (Swift UI)를 이용한 IOS App project
    - 제주도 바다낚시꾼들을 위한, 개인간 생선 경매 사이트.
    - Python을 이용한 AI 모델로, 터치 횟수 5회 이내로 경매를 시작할 수 있도록 서비스 구현.
+     
+
 ### 4. MyBMIRecord : AppStore 등록 과정을 경험하기 위한 간단한 Project. (등록된 App  : MyHealthRecord_BMI)
-
-저는 AI를 이용해 편의성을 증가시키는 서비스의 가장 기본적인 활용방법을 "싯가 어때" 프로젝트에서 구현해 보았습니다.")
-
-
-그리고, 간단한 수준이기는 하지만 SpringBoot를 이용한 web 프로젝트르
+   - 키와 몸무게를 입력받아 BMI 수치를 계산하고 관리하는 간단한 Appservice
+   - Local DB 사용. (SQLite)
+     
 
 
 
-
----
-## Proficiency
-
-### App
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> 🌕🌕🌖🌑🌑   
-<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=skyblue">     🌕🌕🌑🌑🌑    
-
-### AI (data Analysis & ML model)
-<img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow">    🌕🌕🌕🌘🌑   
-<img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue">           🌕🌕🌑🌑🌑   
-
-### Back-end
-<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=Java&logoColor=red">     🌕🌕🌑🌑🌑   
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">     🌕🌕🌑🌑🌑   
-<img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black">     🌕🌘🌑🌑🌑   
 
 
 
