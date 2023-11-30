@@ -63,7 +63,8 @@ AI 모델을 이용하여 "더 재미있고 유익하거나" 를 만들거나 "�
    - Python을 이용한 AI 모델로, 터치 횟수 5회 이내로 경매를 시작할 수 있도록 서비스 구현.
      
 
-### 4. MyBMIRecord : AppStore 등록 과정을 경험하기 위한 간단한 Project. (등록된 App  : MyHealthRecord_BMI)
+### 4. MyBMIRecord : AppStore 등록 과정을 경험하기 위한 간단한 Project.    
+(등록된 App  : MyHealthRecord_BMI)
    - 키와 몸무게를 입력받아 BMI 수치를 계산하고 관리하는 간단한 Appservice
    - Local DB 사용. (SQLite)
      
