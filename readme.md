@@ -14,8 +14,8 @@ Now this is time to make my github pretty well. (2023-11-28)
 
 |구분|language|Proficiency|
 |---|------|---|
-|## app|<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> |🌕🌕🌖🌑🌑 |
-|## app|<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=skyblue">|🌕🌕🌑🌑🌑  |
+|app|<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> |🌕🌕🌖🌑🌑 |
+|app|<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=skyblue">|🌕🌕🌑🌑🌑  |
 |AI|<img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow"> |🌕🌕🌕🌘🌑  |
 |AI|<img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue"> | 🌕🌕🌑🌑🌑  |
 |backend|<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=Java&logoColor=red"> |🌕🌕🌑🌑🌑  |
