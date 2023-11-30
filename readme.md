@@ -10,7 +10,7 @@ Now this is time to make my github pretty well. (2023-11-28)
 <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue"> 
 
 ---
-## Proficiency (self evaluate)
+## Language Proficiency (self evaluate)
 
 |구분|language|Proficiency|
 |---|------|---|
