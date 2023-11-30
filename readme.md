@@ -40,7 +40,7 @@ Now this is time to make my github pretty well. (2023-11-28)
 더 좋은 서비스, 더 오래 사랑 받는 서비스를 기획하고 만들고 유지 할 수 있을 것이라 생각합니다.    
 
 ---
-# 수행한 Project
+# About Projects
 ### Projects Slide Link (google Slide): 
 https://drive.google.com/drive/folders/14_jUPghzhinqWDvjf-gBVj-6ZdTm5Y3L?usp=drive_link
 
