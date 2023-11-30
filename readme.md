@@ -20,7 +20,7 @@ Full Stack Developer
 - AI Service
 
 ---
-## Target Level and Current Level
+## Proficiency
 
 ### App
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> 🌕🌕🌖🌑🌑   
