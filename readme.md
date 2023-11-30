@@ -57,6 +57,12 @@ AI 모델을 이용하여 "더 재미있고 유익하거나" 를 만들거나 "�
 |4|MyBMIRecord |AppStore 등록 과정을 경험하기 위한 간단한 Flutter IOS Project<br> 등록된 app 이름 : MyHealthRecord_BMI|   키와 몸무게를 입력받아 BMI 수치를 계산하고 관리하는 간단한 Appservice<br>-smartPhone / tablet 범용 app<br>- Local DB 사용. (SQLite)|
 
 
+## Web projcet ( 1 Project) :
+|no|프로젝트|개요|비고|
+|---|---|---|---|
+|1|Little&Precious|SpringBoot_MyBatis를 이용한<br>인테리어 소품 판매/관리 Web| JSP -> MVC -> Springboot 로 진행하면서 <br> Spring에 대해 이해해본 프로젝트.|
+
+
 
 
 
