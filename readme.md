@@ -31,8 +31,10 @@ Full Stack Developer
 <img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue">  🌕🌕🌑🌑🌑   
 
 ### Back-end
+<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=Java&logoColor=red"> 🌕🌕🌑🌑🌑   
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> 🌕🌕🌑🌑🌑   
 <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black"> 🌕🌘🌑🌑🌑   
+
 
 
 
