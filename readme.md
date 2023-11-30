@@ -48,6 +48,15 @@ https://drive.google.com/drive/folders/14_jUPghzhinqWDvjf-gBVj-6ZdTm5Y3L?usp=dri
 제가 수행한 모든 app 에서는 JSP만으로도 구현이 가능하더라도, 최대한 SpringBoot 프레임 워크를 사용하였습니다.    
 AI 모델을 이용하여 "더 재미있고 유익하거나" 를 만들거나 "더 편리한" APP 서비스를 구현하였습니다.    
 
+
+|no|프로젝트|개요|비고|
+|---|---|---|---|
+|1|Self Diagnosis|Flutter를 이용한 android/IOS App Project|   - 당뇨/심혈관질환 자가 진단 서비스 외.
+   - R 을 이용한 AI 모델로 당뇨/심혈관질환 자가진단.
+   - Spring Boot 를 이용하여 MySQL 사용
+   - AI 모델을 사용하기위해 R Serve 사용.|
+
+
 ### 1. Self Diagnosis  : Flutter를 이용한 android/IOS App Project
    - 당뇨/심혈관질환 자가 진단 서비스 외.
    - R 을 이용한 AI 모델로 당뇨/심혈관질환 자가진단.
