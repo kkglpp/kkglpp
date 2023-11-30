@@ -51,10 +51,7 @@ AI 모델을 이용하여 "더 재미있고 유익하거나" 를 만들거나 "�
 
 |no|프로젝트|개요|비고|
 |---|---|---|---|
-|1|Self Diagnosis|Flutter를 이용한 android/IOS App Project|   - 당뇨/심혈관질환 자가 진단 서비스 외.
-   - R 을 이용한 AI 모델로 당뇨/심혈관질환 자가진단.
-   - Spring Boot 를 이용하여 MySQL 사용
-   - AI 모델을 사용하기위해 R Serve 사용.|
+|1|Self Diagnosis|Flutter를 이용한 android/IOS App Project|   - 당뇨/심혈관질환 자가 진단 서비스 외<br>- R 을 이용한 AI 모델로 당뇨/심혈관질환 자가진단.<br>- Spring Boot 를 이용하여 MySQL 사용<br>- AI 모델을 사용하기위해 R Serve 사용.|
 
 
 ### 1. Self Diagnosis  : Flutter를 이용한 android/IOS App Project
