@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue"> 
 
 ---
-## Language/FrameWork Proficiency (self evaluate)
+## Language/FrameWork Proficiency (self evaluation)
 
 |구분|language|Proficiency|
 |---|------|---|
