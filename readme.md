@@ -12,25 +12,16 @@ Now this is time to make my github pretty well. (2023-11-28)
 ---
 ## Proficiency (self evaluate)
 
-|제목|내용|설명|
-|------|---|---|
-|App|
-|<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> |테스트2|테스트3|
-|<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=skyblue">|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|구분|language|Proficiency|
+|---|------|---|
+|## app|<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> |🌕🌕🌖🌑🌑 |
+|## app|<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=skyblue">|🌕🌕🌑🌑🌑  |
+|AI|<img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow"> |🌕🌕🌕🌘🌑  |
+|AI|<img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue"> | 🌕🌕🌑🌑🌑  |
+|backend|<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=Java&logoColor=red"> |🌕🌕🌑🌑🌑  |
+|backend| <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> |🌕🌕🌑🌑🌑    |
+|backend| <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black">|🌕🌘🌑🌑🌑  |
 
-### App
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> 🌕🌕🌖🌑🌑   
-<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=skyblue">     🌕🌕🌑🌑🌑    
-
-### AI (data Analysis & ML model)
-<img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow">    🌕🌕🌕🌘🌑   
-<img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue">           🌕🌕🌑🌑🌑   
-
-### Back-end
-<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=Java&logoColor=red">     🌕🌕🌑🌑🌑   
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">     🌕🌕🌑🌑🌑   
-<img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black">     🌕🌘🌑🌑🌑   
 
 ---
 # Want to be
