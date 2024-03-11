@@ -33,7 +33,7 @@ AI 모델을 이용하여 "더 재미있고 유익하거나" 를 만들거나 "�
   
 |no|프로젝트|개요|비고|
 |---|---|---|---|
-|1|Fish Auction|Flutter를 이용한 android/IOS App Project|   - 개인간 경매 중개 서비스 <br>- Flutter 를 이용한  android/ios app<br>- RestFul api 서버 및 Firebase 연동<br>- Bloc를 이용한 상태관리.|
+|1|Fish Auction|Flutter를 이용한 android/IOS App Project<br>싯가 얼마?|   - 개인간 경매 중개 서비스 <br>- Flutter 를 이용한  android/ios app<br>- RestFul api 서버 및 Firebase 연동<br>- Bloc를 이용한 상태관리.|
 |2|Self Diagnosis|Flutter를 이용한 android/IOS App Project|   - 당뇨/심혈관질환 자가 진단 서비스 외<br>- R 을 이용한 AI 모델로 당뇨/심혈관질환 자가진단.<br>- Spring Boot 를 이용하여 MySQL 사용<br>- AI 모델을 사용하기위해 R Serve 사용.|
 |3|Travel Maker|Swift (UIkit)을 이용한 IOS App project|   - 제주도 여행지를 추천해 주는 서비스<br>- Python을 이용한 AI 모델로 사용자에게 원하는 여행을 "문장"으로 입력 받아여행지 추천.|
 |4|싯가 어때 |Swift (Swift UI)를 이용한 IOS App project|  - 제주도 바다낚시꾼들을 위한, 개인간 생선 경매 사이트.<br>- Python을 이용한 AI 모델로, 터치 횟수 5회 이내로 경매를 시작할 수 있도록 서비스 구현.|
