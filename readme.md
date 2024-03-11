@@ -17,7 +17,7 @@
 |AI|<img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=yellow"> |🌕🌕🌗🌑🌑  |
 |AI|<img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=R&logoColor=blue"> | 🌕🌕🌑🌑🌑  |
 |backend|<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=Java&logoColor=red"> |🌕🌕🌑🌑🌑  |
-|backend| <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> |🌕🌕🌑🌑🌑    |
+|backend| <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> |🌕🌑🌑🌑🌑    |
 |backend| <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black">|🌕🌘🌑🌑🌑  |
 
 
