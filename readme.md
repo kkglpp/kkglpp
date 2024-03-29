@@ -1,4 +1,9 @@
-###### Last Update ( 2023.11.30)
+# Better than yesterday!!! 
+진부하고 old 한 표현?  시대를 가르는 명언, Classic 한 동기부여!
+
+# 없으면 직접 만들어 보든가? 
+ㅇㅋ! 하면 되지 뭐. 
+
 ---
 ## Developement Language /frameWork
 
