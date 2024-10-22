@@ -1,3 +1,12 @@
+# Flutter 개발자 강경구 입니다.
+
+MVVM 패턴을 지향하며 개발하고 있습니다.
+
+Spring 을 이용한 간단한 백엔드 프로젝트 수행도 가능합니다.
+
+어제보다 오늘 조금 더 발전하기 위해 노력합니다.
+
+
 ---
 ## Developement Language /frameWork
 
