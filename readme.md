@@ -1,4 +1,4 @@
-# Flutter 개발자 강경구 입니다.<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue"> 
+# <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=skyblue">  Flutter 개발자 강경구 입니다.
 
 
 MVVM 패턴을 지향하며 개발하고 있습니다.
